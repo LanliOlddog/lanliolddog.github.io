@@ -1,4 +1,4 @@
-![host修改](https://cdn.jsdelivr.net/gh/LanliOlddog/Pictures-Hosting/1/1/123.png)
+![host修改](https://github.com/LanliOlddog/Pictures-Hosting/blob/main/1/123.png)
 
 ![蕾塞](https://github.com/LanliOlddog/Pictures-Hosting/blob/main/1/879A881378CC353724FC83B26E9A2C29.png)
 
